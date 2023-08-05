@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Soundscribebot/static/css/main.83257299.css",
+    "main.js": "/Soundscribebot/static/js/main.3e0cd4a7.js",
+    "static/js/787.403d7cce.chunk.js": "/Soundscribebot/static/js/787.403d7cce.chunk.js",
+    "index.html": "/Soundscribebot/index.html",
+    "main.83257299.css.map": "/Soundscribebot/static/css/main.83257299.css.map",
+    "main.3e0cd4a7.js.map": "/Soundscribebot/static/js/main.3e0cd4a7.js.map",
+    "787.403d7cce.chunk.js.map": "/Soundscribebot/static/js/787.403d7cce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83257299.css",
+    "static/js/main.3e0cd4a7.js"
+  ]
+}
