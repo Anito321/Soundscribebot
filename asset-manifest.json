@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jorel321/Soundscribe.git/static/css/main.83257299.css",
-    "main.js": "/Jorel321/Soundscribe.git/static/js/main.51fd9a5e.js",
-    "static/js/787.403d7cce.chunk.js": "/Jorel321/Soundscribe.git/static/js/787.403d7cce.chunk.js",
-    "index.html": "/Jorel321/Soundscribe.git/index.html",
-    "main.83257299.css.map": "/Jorel321/Soundscribe.git/static/css/main.83257299.css.map",
-    "main.51fd9a5e.js.map": "/Jorel321/Soundscribe.git/static/js/main.51fd9a5e.js.map",
-    "787.403d7cce.chunk.js.map": "/Jorel321/Soundscribe.git/static/js/787.403d7cce.chunk.js.map"
+    "main.css": "/Soundscribe/static/css/main.83257299.css",
+    "main.js": "/Soundscribe/static/js/main.5a730451.js",
+    "static/js/787.403d7cce.chunk.js": "/Soundscribe/static/js/787.403d7cce.chunk.js",
+    "index.html": "/Soundscribe/index.html",
+    "main.83257299.css.map": "/Soundscribe/static/css/main.83257299.css.map",
+    "main.5a730451.js.map": "/Soundscribe/static/js/main.5a730451.js.map",
+    "787.403d7cce.chunk.js.map": "/Soundscribe/static/js/787.403d7cce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83257299.css",
-    "static/js/main.51fd9a5e.js"
+    "static/js/main.5a730451.js"
   ]
 }
